@@ -2,11 +2,11 @@ package com.example.demo.models;
 
 import com.example.demo.enums.BudgetPeriod;
 import com.fasterxml.jackson.annotation.JsonFormat;
-import jakarta.persistence.*;
 import jdk.jfr.Timestamp;
 import lombok.Getter;
 import lombok.Setter;
 
+import javax.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.List;

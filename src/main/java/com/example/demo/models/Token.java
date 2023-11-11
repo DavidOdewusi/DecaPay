@@ -3,9 +3,10 @@ package com.example.demo.models;
 
 import com.example.demo.enums.Status;
 import com.example.demo.enums.VerificationType;
-import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
+
+import javax.persistence.*;
 
 
 @Getter
