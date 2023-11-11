@@ -1,4 +1,4 @@
-package com.example.decapay.configurations.cors;
+package com.example.demo.configuration.cors;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;

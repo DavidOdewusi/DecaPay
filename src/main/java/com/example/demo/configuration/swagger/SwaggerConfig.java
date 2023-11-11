@@ -1,4 +1,4 @@
-package com.example.decapay.configurations.swagger;
+package com.example.demo.configuration.swagger;
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;
